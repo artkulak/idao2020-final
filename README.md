@@ -53,5 +53,4 @@ def postprocess_predictions(predictions, rate = 0.1):
     return predictions
     
  ```
- 
- We used half of predictions closest to zeros and half - closest to ones. This boosted our score significantly. Afterwards we just used 5 folds * 5 seeds LGBM models, created a bunch of features and optimized hyperparameters of the models
+We used half of the predictions closest to zeros and half - closest to ones. This boosted our score significantly. Afterward we just used `5 folds * 5 seeds` LGBM models, created a bunch of features, and optimized hyperparameters of the models

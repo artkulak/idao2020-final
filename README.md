@@ -1,4 +1,4 @@
-# IDAO 2020 Fintal Stage
+# IDAO 2020 Final Stage
 **Team: CHAD DATA SCIENTISTS**
 
 **Solution scored 90.82 on private. 6th Place**

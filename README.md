@@ -9,7 +9,7 @@
 	- https://github.com/KovalevEvgeny
 
 * How to get the data
-   - Train/test data folder from https://yadi.sk/d/JfZdPtNKu054VQ
+   - Train/test data folder https://yadi.sk/d/JfZdPtNKu054VQ
 
 <hr>
 

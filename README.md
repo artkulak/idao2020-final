@@ -6,7 +6,7 @@
 
 * KUDOS to my teammates:
 	- https://github.com/JustM57
-	- https://github.com/blacKitten13
+	- https://github.com/KovalevEvgeny
 
 * How to get the data
    - Train/test data folder from https://yadi.sk/d/JfZdPtNKu054VQ
